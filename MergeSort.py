@@ -29,3 +29,5 @@ def MergeSort(A):
 
 A1 = [37,10,22,30,35,13,25,24]
 print(MergeSort(A1))
+
+Recursion  Reference : https://velog.io/@polynomeer/%EC%9E%AC%EA%B7%80Recursion
